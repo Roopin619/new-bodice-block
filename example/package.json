@@ -20,7 +20,7 @@
     "@material-ui/icons": "^4.2.1",
     "@material-ui/lab": "^v4.0.0-alpha.25",
     "pattern": "file:..",
-    "prismjs": "1.17.1",
+    "prismjs": "1.24.0",
     "react": "^16.9",
     "react-dom": "^16.9",
     "react-scripts": "^3.1.1",
